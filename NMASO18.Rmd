@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Logistics
 
-[Map of Kräftriket](https://www.su.se/polopoly_fs/1.294747.1504850221!/menu/standard/file/SU%20kartor%20Original%20Kräftriket%2020170817.pdf)
+[Map of Kräftriket](https://rawgit.com/mskoldSU/student_info/master/map.pdf)
 
 ## General requirements
 
