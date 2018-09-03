@@ -1,0 +1,81 @@
+---
+title: "NMASO"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Logistics
+
+[Map of Kräftriket](https://www.su.se/polopoly_fs/1.294747.1504850221!/menu/standard/file/SU%20kartor%20Original%20Kräftriket%2020170817.pdf)
+
+## General requirements
+
+**Two years of full-time studies (120 credits) including**
+
+- A minimum of 30 advanced level course credits within the subject.
+- A 30 credit degree project.
+- A maximum of 30 basic level course credits.
+
+## Specific requirements
+
+**The following courses should be included:**
+
+- Probability Theory III.
+- Statistical Models.
+- Stochastic Processes and Simulation II.
+- Computer Intensive Statistical Methods.
+
+**and two of**
+
+- Stochastic Processes III.
+- Statistical Consulting.
+- Mathematical Communication.
+
+
+## Specific requirements
+
+**Out of the remaining 45 credits**
+
+- 22.5 credits should be taken from a list of electable courses.
+- 22.5 credits free of choice.
+
+## Courses at KTH
+
+**Programme students have access to courses**
+
+- Machine Learning (first half of autumn/spring)
+- Deep Learning in Data Science (second half of spring)
+
+Needs some computer science for eligibility.
+
+## DataCamp
+
+- Most courses use R/RStudio
+- We can provide 6 months access to preminum training material at [DataCamp}(https://www.datacamp.com/home)
+- Need your consent
+
+## Courses starting now
+
+- Probability Theory III (also autumn 2019)
+- Survival Analysis
+- Statistical Inference (locals already have this one)
+
+### Starting now, but better saved for autumn 2019
+
+- Stochastic processes III
+- Statistical Consulting
+- Mathematical Communication
+
+## What happens now?
+
+- Probability Theory III starts at 12:45 in this room
+- I will make sure you get registered
+- In two weeks; meeting about courses second half of autumn and spring
+
+## The list
+
+- Tick courses you are planning, ask if uncertain
+- Tick DataCamp for invitation to premium content
