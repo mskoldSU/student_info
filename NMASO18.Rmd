@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Map of Kräftriket](https://rawgit.com/mskoldSU/student_info/master/map.pdf)
 
+[Course web-pages](https://kurser.math.su.se/)
+
 ## General requirements
 
 **Two years of full-time studies (120 credits) including**
